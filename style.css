@@ -98,6 +98,10 @@ body {
 
 /* Home Page */
 
+#hero {
+    background-image: url(/Book-Hive/img/Background.jpg);
+}
+
 /* Shop Page */
 
 /* Contact Page */
