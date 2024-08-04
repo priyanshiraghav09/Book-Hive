@@ -55,14 +55,17 @@ body {
     justify-content: space-between;
     padding: 20px 80px;
     background: #e3e6f3;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.0);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    z-index: 999;
+    position: sticky;
+    top: 0;
+    left: 0;
 }
 
 #navbar{
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 999;
 }
 
 #navbar li{
@@ -120,7 +123,7 @@ body {
 }
 
 #hero button{
-    background-color: rgb(231, 199, 159);
+    background-color:rgb(255, 228, 196);
     border: rgb(231, 199, 159);
     border-radius: 40%;
     color: #088178;
