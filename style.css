@@ -485,6 +485,8 @@ body {
     background-color: #088178;
     color: #fff;
     white-space: nowrap;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
 
 /* Shop Page */
