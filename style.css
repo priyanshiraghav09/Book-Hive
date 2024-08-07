@@ -587,6 +587,13 @@ footer .Name{
     font-weight: 600;
 }
 
+
+/* Blog Page */
+
+#page-header.blog-header{
+    background-image: url("/img/ben1.png");
+}
+
 /* Contact Page */
 
 /* Cart Page */
